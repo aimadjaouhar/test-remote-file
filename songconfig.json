@@ -1,0 +1,23 @@
+[
+  {
+    "path": "badsign.mp3",
+    "name": "Unity - TheFatRat",
+    "bmp": 106,
+    "startTime": 0.05,
+    "diamonds": 0,
+    "type": "OPEN",
+    "closerTiles": 0,
+    "tags": "POPULAR, EDM, RapidJump",
+    "theme": 1
+  },
+  {
+    "path": "bigdeal.mp3",
+    "name": "Brooklyn Heights",
+    "bmp": 92,
+    "startTime": 0.58,
+    "diamonds": 30,
+    "type": "LOCK",
+    "version": 0,
+    "tags": null
+  }
+]
